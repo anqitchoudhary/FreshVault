@@ -16,7 +16,7 @@ st.set_page_config(
 
 # --- File Paths ---
 APPROVED_FILE = "approved_items.csv"
-DATASET_FILE = "perishable_goods_pricing_dataset.csv"
+SAMPLE_FILE = "sample_inventory.csv" # New file path
 MODEL_FILE = "ml_model.pkl"
 ENCODERS_FILE = "encoders.pkl"
 
@@ -149,11 +149,25 @@ def manager_view():
     """Displays the dashboard for the store manager."""
     st.title("📊 Manager Dashboard")
     st.write(f"👤 Logged in as: **{st.session_state.username}**")
-
+    
     st.markdown("---")
 
     # --- Section for Prediction and Approval ---
     st.header("📤 Predict & Approve New Discounts")
+    
+    # --- NEW: Add download button for sample CSV ---
+    try:
+        with open(SAMPLE_FILE, "r") as f:
+            sample_csv = f.read()
+        st.download_button(
+            label="📄 Don't have a CSV? Download a sample file here.",
+            data=sample_csv,
+            file_name='sample_inventory.csv',
+            mime='text/csv',
+        )
+    except FileNotFoundError:
+        st.warning("sample_inventory.csv not found. The download link will not be available.")
+
     uploaded_file = st.file_uploader("Upload Inventory CSV for Prediction", type="csv", label_visibility="collapsed")
 
     if uploaded_file and st.session_state.predicted_items is None:
@@ -173,7 +187,7 @@ def manager_view():
             predictions = model.predict(predict_df)
             new_items_df['suggested_discount_percentage'] = [round(p, 2) for p in predictions]
             new_items_df['discounted_price'] = (new_items_df['selling_price'] * (
-                    1 - new_items_df['suggested_discount_percentage'] / 100)).round(2)
+                        1 - new_items_df['suggested_discount_percentage'] / 100)).round(2)
 
             st.session_state.predicted_items = new_items_df.to_dict('records')
             st.session_state.item_actions = {i: None for i in range(len(st.session_state.predicted_items))}
@@ -264,18 +278,15 @@ def manager_view():
             st.info("There are currently no active discounts to manage.")
         else:
             st.write("Here you can view and remove currently active discounts.")
-
+            
             for index, row in active_discounts_df.iterrows():
                 col1, col2 = st.columns([3, 1])
                 with col1:
-                    st.markdown(
-                        f"**{row['item_name']}** - {row['suggested_discount_percentage']}% off (Expires in {row['days_to_expiry']} days)")
+                    st.markdown(f"**{row['item_name']}** - {row['suggested_discount_percentage']}% off (Expires in {row['days_to_expiry']} days)")
                 with col2:
                     st.markdown('<div class="remove-button">', unsafe_allow_html=True)
                     if st.button(f"Remove", key=f"remove_{index}", use_container_width=True):
-                        # Remove the item from the dataframe
                         active_discounts_df.drop(index, inplace=True)
-                        # Save the updated dataframe back to the CSV
                         active_discounts_df.to_csv(APPROVED_FILE, index=False)
                         st.success(f"Removed '{row['item_name']}' from the active discounts.")
                         st.rerun()
@@ -295,7 +306,6 @@ def customer_view():
 
     try:
         approved_df = pd.read_csv(APPROVED_FILE)
-        # --- NEW: Filter out expired items ---
         approved_df = approved_df[approved_df['days_to_expiry'] > 0]
     except (FileNotFoundError, pd.errors.EmptyDataError):
         st.warning("No approved items available yet. Check back soon!")
