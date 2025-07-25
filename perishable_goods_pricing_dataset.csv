@@ -1,0 +1,806 @@
+item_name,product_type,days_to_expiry,stock_quantity,average_daily_sales,cost_price,selling_price,season,day_of_week,profit_margin,historical_discount_given,units_expired_last_week,suggested_discount_percentage
+Organic Bananas,Fruit,3,55,25,0.85,1.30,All-Season,Monday,0.45,0,8,15
+Cheddar Cheese,Dairy,12,90,8,2.60,4.10,All-Season,Tuesday,1.50,0,3,8
+Whole Wheat Bread,Bakery,2,45,28,1.10,2.10,All-Season,Wednesday,1.00,1,10,25
+Tomatoes,Vegetable,4,180,45,0.45,0.95,Summer,Thursday,0.50,0,12,18
+Greek Yogurt,Dairy,8,110,12,1.30,2.60,All-Season,Friday,1.30,0,4,10
+Apples,Fruit,15,250,18,0.55,1.10,Fall,Saturday,0.55,0,2,5
+Chicken Breast,Meat,2,50,20,3.10,5.20,All-Season,Sunday,2.10,1,6,28
+Baguette,Bakery,1,35,35,0.80,1.90,All-Season,Monday,1.10,1,15,40
+Lettuce,Vegetable,5,80,20,0.75,1.60,Spring,Tuesday,0.85,0,7,14
+Milk,Dairy,6,95,38,1.60,2.90,All-Season,Wednesday,1.30,0,6,12
+Strawberries,Fruit,2,65,32,2.10,3.60,Summer,Thursday,1.50,1,18,30
+Ground Beef,Meat,2,48,22,4.20,6.70,All-Season,Friday,2.50,1,9,26
+Croissants,Bakery,1,28,28,0.95,2.30,All-Season,Saturday,1.35,1,12,45
+Spinach,Vegetable,4,75,28,1.15,2.10,Spring,Sunday,0.95,0,9,16
+Dish Soap,household,365,210,18,1.60,2.60,All-Season,Monday,1.00,0,0,0
+Watermelon,Fruit,18,75,12,3.20,5.20,Summer,Tuesday,2.00,0,3,6
+Bleach,household,365,140,10,2.10,3.60,All-Season,Wednesday,1.50,0,0,0
+Ice Cream,frozen_food,90,130,22,2.60,4.60,Summer,Thursday,2.00,1,1,5
+Sugar,grocery,730,450,45,0.85,1.60,All-Season,Friday,0.75,0,0,0
+Shampoo,personal_care,730,170,28,3.20,5.70,All-Season,Saturday,2.50,0,0,0
+Hand Sanitizer,personal_care,730,240,32,2.30,4.10,All-Season,Sunday,1.80,0,0,0
+Cauliflower,Vegetable,6,85,16,0.95,1.90,Fall,Monday,0.95,0,4,10
+Canned Tuna,pantry,1095,280,28,1.05,2.00,All-Season,Tuesday,0.95,0,0,0
+Paper Towels,household,1095,380,42,1.25,2.30,All-Season,Wednesday,1.05,0,0,0
+Organic Gala Apples,Fruit,14,150,15,0.90,1.80,Fall,Thursday,0.90,0,1,4
+Sourdough Bread,Bakery,4,30,15,2.50,4.50,All-Season,Friday,2.00,0,2,10
+Salmon Fillet,Meat,2,25,10,8.00,12.50,All-Season,Saturday,4.50,1,3,25
+Almond Milk,Dairy,20,60,8,2.80,4.20,All-Season,Sunday,1.40,0,1,5
+Broccoli,Vegetable,7,100,20,1.20,2.20,All-Season,Monday,1.00,0,5,8
+Avocado,Fruit,3,80,30,1.50,2.50,All-Season,Tuesday,1.00,0,10,20
+Pork Chops,Meat,3,40,12,4.50,7.00,All-Season,Wednesday,2.50,1,4,22
+Orange Juice,beverage,30,120,25,2.00,3.50,All-Season,Thursday,1.50,0,1,3
+Pasta,pantry,730,200,30,1.00,1.80,All-Season,Friday,0.80,0,0,0
+Laundry Detergent,household,1095,150,12,8.00,12.00,All-Season,Saturday,4.00,0,0,0
+Toothpaste,personal_care,730,250,20,1.80,3.00,All-Season,Sunday,1.20,0,0,0
+Potatoes,Vegetable,30,400,50,0.30,0.70,All-Season,Monday,0.40,0,5,2
+Blueberries,Fruit,5,50,20,3.00,4.50,Summer,Tuesday,1.50,0,8,15
+Butter,Dairy,60,100,15,3.50,5.00,All-Season,Wednesday,1.50,0,1,2
+Bagels,Bakery,5,40,18,1.50,2.80,All-Season,Thursday,1.30,0,3,8
+Onions,Vegetable,60,300,40,0.25,0.60,All-Season,Friday,0.35,0,4,1
+Grapes,Fruit,7,90,25,2.20,3.80,Fall,Saturday,1.60,0,6,10
+Eggs,Dairy,21,150,40,1.80,3.20,All-Season,Sunday,1.40,0,3,4
+Turkey Breast,Meat,4,35,10,5.00,8.00,All-Season,Monday,3.00,1,2,18
+Cereal,grocery,365,180,22,2.50,4.00,All-Season,Tuesday,1.50,0,0,0
+Ketchup,pantry,540,160,18,1.50,2.50,All-Season,Wednesday,1.00,0,0,0
+Tofu,Vegetable,10,50,12,2.00,3.50,All-Season,Thursday,1.50,0,2,8
+Frozen Pizza,frozen_food,365,100,20,4.00,6.50,All-Season,Friday,2.50,0,0,0
+Cucumbers,Vegetable,8,120,28,0.60,1.20,Summer,Saturday,0.60,0,7,10
+Peaches,Fruit,4,70,25,1.80,3.00,Summer,Sunday,1.20,0,10,20
+Cream Cheese,Dairy,25,60,10,2.20,3.80,All-Season,Monday,1.60,0,2,6
+Muffins,Bakery,3,30,20,1.20,2.50,All-Season,Tuesday,1.30,1,5,25
+Carrots,Vegetable,21,250,35,0.40,0.90,All-Season,Wednesday,0.50,0,4,5
+Sausages,Meat,7,55,15,3.80,6.00,All-Season,Thursday,2.20,0,3,12
+Coffee,grocery,365,120,28,6.00,9.50,All-Season,Friday,3.50,0,0,0
+Rice,pantry,1095,500,60,0.90,1.50,All-Season,Saturday,0.60,0,0,0
+Deodorant,personal_care,730,180,15,2.80,4.50,All-Season,Sunday,1.70,0,0,0
+Bell Peppers,Vegetable,10,140,22,1.00,2.00,Summer,Monday,1.00,0,6,9
+Cherries,Fruit,5,40,18,4.00,6.50,Summer,Tuesday,2.50,0,8,18
+Sour Cream,Dairy,18,70,12,1.60,2.80,All-Season,Wednesday,1.20,0,3,7
+Donuts,Bakery,1,40,40,0.80,1.80,All-Season,Thursday,1.00,1,20,50
+Zucchini,Vegetable,7,90,20,0.90,1.80,Summer,Friday,0.90,0,5,11
+Plums,Fruit,6,60,22,1.90,3.20,Summer,Saturday,1.30,0,7,13
+Cottage Cheese,Dairy,15,80,10,2.00,3.50,All-Season,Sunday,1.50,0,2,6
+Pita Bread,Bakery,6,35,15,1.30,2.50,All-Season,Monday,1.20,0,3,9
+Mushrooms,Vegetable,7,60,18,2.50,4.00,All-Season,Tuesday,1.50,0,4,10
+Bacon,Meat,14,45,15,5.50,8.50,All-Season,Wednesday,3.00,0,2,8
+Tea,grocery,730,200,25,3.00,5.00,All-season,Thursday,2.00,0,0,0
+Flour,pantry,365,300,30,1.20,2.20,All-Season,Friday,1.00,0,0,0
+Soap Bar,personal_care,1095,300,20,0.90,1.50,All-Season,Saturday,0.60,0,0,0
+Eggplant,Vegetable,8,70,15,1.10,2.10,Summer,Sunday,1.00,0,4,9
+Pineapple,Fruit,7,50,15,2.50,4.00,All-Season,Monday,1.50,0,5,12
+Half & Half,Dairy,10,50,12,1.80,3.00,All-Season,Tuesday,1.20,0,2,7
+English Muffins,Bakery,7,25,12,1.80,3.20,All-Season,Wednesday,1.40,0,2,8
+Green Beans,Vegetable,8,110,20,1.50,2.80,Summer,Thursday,1.30,0,6,10
+Hot Dogs,Meat,14,60,18,3.00,5.00,All-Season,Friday,2.00,0,3,9
+Mayonnaise,pantry,180,140,15,2.20,3.80,All-Season,Saturday,1.60,0,0,0
+Frozen Waffles,frozen_food,365,80,15,2.80,4.50,All-Season,Sunday,1.70,0,0,0
+Asparagus,Vegetable,5,40,12,3.50,5.50,Spring,Monday,2.00,0,5,15
+Mangoes,Fruit,5,60,20,2.00,3.50,Summer,Tuesday,1.50,0,8,18
+Whipping Cream,Dairy,12,40,8,2.50,4.00,All-Season,Wednesday,1.50,0,2,7
+Rye Bread,Bakery,5,28,12,2.20,3.80,All-Season,Thursday,1.60,0,3,10
+Cabbage,Vegetable,14,150,25,0.50,1.10,All-Season,Friday,0.60,0,3,4
+Ground Turkey,Meat,3,45,15,4.50,7.00,All-Season,Saturday,2.50,1,4,22
+Pickles,pantry,365,100,10,2.00,3.50,All-Season,Sunday,1.50,0,0,0
+Frozen Berries,frozen_food,365,90,12,4.50,7.00,All-Season,Monday,2.50,0,0,0
+Radishes,Vegetable,10,70,15,0.80,1.50,Spring,Tuesday,0.70,0,4,8
+Pears,Fruit,10,120,18,1.20,2.20,Fall,Wednesday,1.00,0,3,6
+Buttermilk,Dairy,14,30,6,1.90,3.20,All-Season,Thursday,1.30,0,1,5
+Scones,Bakery,3,20,15,1.80,3.20,All-Season,Friday,1.40,1,4,28
+Celery,Vegetable,14,100,20,1.00,1.90,All-Season,Saturday,0.90,0,3,6
+Lamb Chops,Meat,4,20,5,9.00,14.00,All-Season,Sunday,5.00,1,2,20
+Mustard,pantry,365,150,15,1.20,2.20,All-Season,Monday,1.00,0,0,0
+Frozen Vegetables,frozen_food,730,250,30,2.00,3.50,All-Season,Tuesday,1.50,0,0,0
+Leeks,Vegetable,12,50,10,1.80,3.00,Spring,Wednesday,1.20,0,2,7
+Kiwis,Fruit,14,80,15,0.80,1.50,All-Season,Thursday,0.70,0,2,5
+Chocolate Milk,beverage,10,70,20,1.50,2.80,All-Season,Friday,1.30,0,2,6
+Tortillas,Bakery,20,100,25,1.80,3.00,All-Season,Saturday,1.20,0,1,3
+Artichokes,Vegetable,7,30,5,2.50,4.00,Spring,Sunday,1.50,0,3,12
+Ham,Meat,7,50,12,6.00,9.50,All-Season,Monday,3.50,0,2,10
+Honey,pantry,1095,120,10,4.50,7.00,All-Season,Tuesday,2.50,0,0,0
+Ice Cream Bars,frozen_food,365,90,18,3.50,5.50,Summer,Wednesday,2.00,0,0,0
+Kale,Vegetable,7,60,15,1.80,3.00,All-Season,Thursday,1.20,0,4,9
+Nectarines,Fruit,5,65,22,2.00,3.50,Summer,Friday,1.50,0,8,17
+Provolone Cheese,Dairy,25,50,8,4.00,6.50,All-Season,Saturday,2.50,0,1,5
+Brownies,Bakery,4,25,18,1.50,3.00,All-Season,Sunday,1.50,1,4,24
+Sweet Potatoes,Vegetable,30,200,30,0.60,1.30,Fall,Monday,0.70,0,3,4
+Ribeye Steak,Meat,3,15,5,12.00,18.00,All-Season,Tuesday,6.00,1,2,25
+Salsa,pantry,180,90,15,2.50,4.00,All-Season,Wednesday,1.50,0,0,0
+Frozen Fish Fillets,frozen_food,365,110,12,5.00,8.00,All-Season,Thursday,3.00,0,0,0
+Beets,Vegetable,14,80,12,1.00,1.90,Fall,Friday,0.90,0,2,6
+Cantaloupe,Fruit,7,40,10,2.20,3.80,Summer,Saturday,1.60,0,4,12
+Feta Cheese,Dairy,30,40,6,3.50,5.50,All-Season,Sunday,2.00,0,1,4
+Cupcakes,Bakery,3,30,20,1.30,2.80,All-Season,Monday,1.50,1,6,28
+Corn,Vegetable,5,150,35,0.50,1.00,Summer,Tuesday,0.50,0,10,15
+Ground Pork,Meat,3,50,15,3.50,5.50,All-Season,Wednesday,2.00,1,5,20
+Jam,pantry,365,130,12,2.80,4.50,All-Season,Thursday,1.70,0,0,0
+Frozen Chicken Nuggets,frozen_food,365,120,22,4.50,7.00,All-Season,Friday,2.50,0,0,0
+Turnips,Vegetable,14,60,10,0.90,1.80,Fall,Saturday,0.90,0,2,7
+Raspberries,Fruit,3,35,18,4.50,7.00,Summer,Sunday,2.50,0,10,25
+Swiss Cheese,Dairy,28,60,8,4.20,6.80,All-Season,Monday,2.60,0,1,5
+Cookies,Bakery,14,80,25,1.00,2.20,All-Season,Tuesday,1.20,0,2,8
+Okra,Vegetable,5,50,12,2.20,3.80,Summer,Wednesday,1.60,0,6,14
+Deli Sliced Turkey,Meat,5,30,10,7.00,11.00,All-Season,Thursday,4.00,0,2,15
+Peanut Butter,pantry,365,200,20,2.80,4.50,All-Season,Friday,1.70,0,0,0
+Frozen French Fries,frozen_food,730,180,25,2.20,3.80,All-Season,Saturday,1.60,0,0,0
+Parsnips,Vegetable,21,40,8,1.50,2.80,Winter,Sunday,1.30,0,2,7
+Papaya,Fruit,5,30,8,2.80,4.50,All-Season,Monday,1.70,0,5,16
+Ricotta Cheese,Dairy,10,35,6,3.00,4.80,All-Season,Tuesday,1.80,0,2,8
+Cake Slice,Bakery,2,15,12,2.50,4.50,All-Season,Wednesday,2.00,1,5,35
+Brussels Sprouts,Vegetable,10,50,10,2.00,3.50,Fall,Thursday,1.50,0,3,9
+Deli Sliced Ham,Meat,5,35,12,6.50,10.50,All-Season,Friday,4.00,0,2,14
+Olive Oil,pantry,730,100,8,8.00,12.50,All-Season,Saturday,4.50,0,0,0
+Frozen Shrimp,frozen_food,365,70,10,9.00,14.00,All-Season,Sunday,5.00,0,0,0
+Fennel,Vegetable,10,30,6,2.20,3.80,Spring,Monday,1.60,0,2,8
+Blackberries,Fruit,4,30,15,4.20,6.80,Summer,Tuesday,2.60,0,8,22
+Goat Cheese,Dairy,21,25,5,5.00,8.00,All-Season,Wednesday,3.00,0,1,6
+Pie Slice,Bakery,3,20,15,2.80,4.80,All-Season,Thursday,2.00,1,5,30
+Scallions,Vegetable,10,80,20,0.70,1.40,All-Season,Friday,0.70,0,4,9
+Sirloin Steak,Meat,4,20,6,10.00,16.00,All-Season,Saturday,6.00,1,2,22
+Vinegar,pantry,1095,180,10,1.50,2.50,All-Season,Sunday,1.00,0,0,0
+Frozen Peas,frozen_food,730,220,28,1.80,3.00,All-Season,Monday,1.20,0,0,0
+Collard Greens,Vegetable,8,50,12,1.90,3.20,Winter,Tuesday,1.30,0,4,10
+Cranberries,Fruit,21,40,8,2.50,4.00,Fall,Wednesday,1.50,0,1,4
+Mascarpone,Dairy,7,20,4,4.50,7.00,All-Season,Thursday,2.50,0,1,8
+Cheesecake Slice,Bakery,4,18,12,3.50,6.00,All-Season,Friday,2.50,1,3,28
+Ginger,Vegetable,30,100,15,2.00,3.50,All-Season,Saturday,1.50,0,1,3
+Deli Sliced Roast Beef,Meat,4,25,8,8.50,13.50,All-Season,Sunday,5.00,1,2,20
+Soy Sauce,pantry,730,160,15,2.00,3.50,All-Season,Monday,1.50,0,0,0
+Frozen Corn,frozen_food,730,240,30,1.70,2.90,All-Season,Tuesday,1.20,0,0,0
+Mustard Greens,Vegetable,7,45,10,1.80,3.00,Winter,Wednesday,1.20,0,3,9
+Passion Fruit,Fruit,7,25,6,1.50,2.80,All-Season,Thursday,1.30,0,3,11
+Blue Cheese,Dairy,28,30,5,5.50,8.50,All-Season,Friday,3.00,0,1,6
+Tiramisu Slice,Bakery,2,12,10,4.00,7.00,All-Season,Saturday,3.00,1,4,40
+Garlic,Vegetable,90,200,30,0.30,0.70,All-Season,Sunday,0.40,0,2,1
+Deli Sliced Salami,Meat,21,40,10,7.50,12.00,All-Season,Monday,4.50,0,1,7
+Hot Sauce,pantry,365,120,12,2.20,3.80,All-Season,Tuesday,1.60,0,0,0
+Frozen Broccoli Cuts,frozen_food,730,200,25,1.90,3.20,All-Season,Wednesday,1.30,0,0,0
+Swiss Chard,Vegetable,7,40,10,2.00,3.50,Spring,Thursday,1.50,0,3,9
+Guava,Fruit,6,35,8,1.20,2.20,All-Season,Friday,1.00,0,4,12
+Brie,Dairy,14,28,6,6.00,9.50,All-Season,Saturday,3.50,0,1,7
+Macarons,Bakery,5,50,20,1.00,2.50,All-Season,Sunday,1.50,0,4,15
+Organic Bananas,Fruit,2,40,28,0.85,1.30,All-Season,Monday,0.45,1,12,30
+Cheddar Cheese,Dairy,10,80,10,2.60,4.10,All-Season,Tuesday,1.50,0,2,7
+Whole Wheat Bread,Bakery,1,30,30,1.10,2.10,All-Season,Wednesday,1.00,1,18,45
+Tomatoes,Vegetable,3,150,50,0.45,0.95,Summer,Thursday,0.50,0,18,25
+Greek Yogurt,Dairy,7,100,15,1.30,2.60,All-Season,Friday,1.30,0,3,9
+Apples,Fruit,12,220,20,0.55,1.10,Fall,Saturday,0.55,0,3,6
+Chicken Breast,Meat,1,35,25,3.10,5.20,All-Season,Sunday,2.10,1,10,48
+Baguette,Bakery,1,30,30,0.80,1.90,All-Season,Monday,1.10,1,18,50
+Lettuce,Vegetable,4,70,22,0.75,1.60,Spring,Tuesday,0.85,0,9,18
+Milk,Dairy,5,85,40,1.60,2.90,All-Season,Wednesday,1.30,0,8,15
+Strawberries,Fruit,1,50,38,2.10,3.60,Summer,Thursday,1.50,1,25,55
+Ground Beef,Meat,1,38,28,4.20,6.70,All-Season,Friday,2.50,1,15,42
+Croissants,Bakery,1,25,25,0.95,2.30,All-Season,Saturday,1.35,1,15,52
+Spinach,Vegetable,3,65,30,1.15,2.10,Spring,Sunday,0.95,0,12,22
+Dish Soap,household,365,200,15,1.60,2.60,All-Season,Monday,1.00,0,0,0
+Watermelon,Fruit,15,70,14,3.20,5.20,Summer,Tuesday,2.00,0,2,5
+Bleach,household,365,135,12,2.10,3.60,All-Season,Wednesday,1.50,0,0,0
+Ice Cream,frozen_food,85,120,25,2.60,4.60,Summer,Thursday,2.00,1,2,6
+Sugar,grocery,730,440,48,0.85,1.60,All-Season,Friday,0.75,0,0,0
+Shampoo,personal_care,730,165,30,3.20,5.70,All-Season,Saturday,2.50,0,0,0
+Hand Sanitizer,personal_care,730,230,35,2.30,4.10,All-Season,Sunday,1.80,0,0,0
+Cauliflower,Vegetable,5,80,18,0.95,1.90,Fall,Monday,0.95,0,6,13
+Canned Tuna,pantry,1095,275,30,1.05,2.00,All-Season,Tuesday,0.95,0,0,0
+Paper Towels,household,1095,370,45,1.25,2.30,All-Season,Wednesday,1.05,0,0,0
+Organic Gala Apples,Fruit,12,140,18,0.90,1.80,Fall,Thursday,0.90,0,2,5
+Sourdough Bread,Bakery,3,25,18,2.50,4.50,All-Season,Friday,2.00,0,4,15
+Salmon Fillet,Meat,1,20,12,8.00,12.50,All-Season,Saturday,4.50,1,6,45
+Almond Milk,Dairy,18,55,10,2.80,4.20,All-Season,Sunday,1.40,0,2,6
+Broccoli,Vegetable,6,90,22,1.20,2.20,All-Season,Monday,1.00,0,7,10
+Avocado,Fruit,2,70,35,1.50,2.50,All-Season,Tuesday,1.00,0,15,28
+Pork Chops,Meat,2,35,15,4.50,7.00,All-Season,Wednesday,2.50,1,7,28
+Orange Juice,beverage,28,110,28,2.00,3.50,All-Season,Thursday,1.50,0,2,4
+Pasta,pantry,730,190,32,1.00,1.80,All-Season,Friday,0.80,0,0,0
+Laundry Detergent,household,1095,145,15,8.00,12.00,All-Season,Saturday,4.00,0,0,0
+Toothpaste,personal_care,730,240,22,1.80,3.00,All-Season,Sunday,1.20,0,0,0
+Potatoes,Vegetable,28,380,55,0.30,0.70,All-Season,Monday,0.40,0,7,3
+Blueberries,Fruit,4,45,22,3.00,4.50,Summer,Tuesday,1.50,0,11,18
+Butter,Dairy,55,95,18,3.50,5.00,All-Season,Wednesday,1.50,0,2,3
+Bagels,Bakery,4,35,20,1.50,2.80,All-Season,Thursday,1.30,0,5,11
+Onions,Vegetable,55,280,42,0.25,0.60,All-Season,Friday,0.35,0,6,2
+Grapes,Fruit,6,80,28,2.20,3.80,Fall,Saturday,1.60,0,8,13
+Eggs,Dairy,19,140,42,1.80,3.20,All-Season,Sunday,1.40,0,4,5
+Turkey Breast,Meat,3,30,12,5.00,8.00,All-Season,Monday,3.00,1,4,20
+Cereal,grocery,365,175,25,2.50,4.00,All-Season,Tuesday,1.50,0,0,0
+Ketchup,pantry,540,155,20,1.50,2.50,All-Season,Wednesday,1.00,0,0,0
+Tofu,Vegetable,8,45,15,2.00,3.50,All-Season,Thursday,1.50,0,4,10
+Frozen Pizza,frozen_food,365,95,22,4.00,6.50,All-Season,Friday,2.50,0,0,0
+Cucumbers,Vegetable,7,110,30,0.60,1.20,Summer,Saturday,0.60,0,9,12
+Peaches,Fruit,3,60,28,1.80,3.00,Summer,Sunday,1.20,0,14,25
+Cream Cheese,Dairy,22,55,12,2.20,3.80,All-Season,Monday,1.60,0,3,7
+Muffins,Bakery,2,25,22,1.20,2.50,All-Season,Tuesday,1.30,1,8,30
+Carrots,Vegetable,19,240,38,0.40,0.90,All-Season,Wednesday,0.50,0,6,6
+Sausages,Meat,6,50,18,3.80,6.00,All-Season,Thursday,2.20,0,5,14
+Coffee,grocery,365,115,30,6.00,9.50,All-Season,Friday,3.50,0,0,0
+Rice,pantry,1095,480,65,0.90,1.50,All-Season,Saturday,0.60,0,0,0
+Deodorant,personal_care,730,175,18,2.80,4.50,All-Season,Sunday,1.70,0,0,0
+Bell Peppers,Vegetable,8,130,25,1.00,2.00,Summer,Monday,1.00,0,8,11
+Cherries,Fruit,4,35,20,4.00,6.50,Summer,Tuesday,2.50,0,11,22
+Sour Cream,Dairy,16,65,15,1.60,2.80,All-Season,Wednesday,1.20,0,5,9
+Donuts,Bakery,1,38,38,0.80,1.80,All-Season,Thursday,1.00,1,22,55
+Zucchini,Vegetable,6,85,22,0.90,1.80,Summer,Friday,0.90,0,7,13
+Plums,Fruit,5,55,25,1.90,3.20,Summer,Saturday,1.30,0,9,16
+Cottage Cheese,Dairy,13,75,12,2.00,3.50,All-Season,Sunday,1.50,0,3,7
+Pita Bread,Bakery,5,30,18,1.30,2.50,All-Season,Monday,1.20,0,5,12
+Mushrooms,Vegetable,6,55,20,2.50,4.00,All-Season,Tuesday,1.50,0,6,12
+Bacon,Meat,12,40,18,5.50,8.50,All-Season,Wednesday,3.00,0,3,9
+Tea,grocery,730,190,28,3.00,5.00,All-season,Thursday,2.00,0,0,0
+Flour,pantry,365,290,32,1.20,2.20,All-Season,Friday,1.00,0,0,0
+Soap Bar,personal_care,1095,290,22,0.90,1.50,All-Season,Saturday,0.60,0,0,0
+Eggplant,Vegetable,7,65,18,1.10,2.10,Summer,Sunday,1.00,0,6,11
+Pineapple,Fruit,6,45,18,2.50,4.00,All-Season,Monday,1.50,0,7,15
+Half & Half,Dairy,8,45,15,1.80,3.00,All-Season,Tuesday,1.20,0,4,9
+English Muffins,Bakery,6,20,15,1.80,3.20,All-Season,Wednesday,1.40,0,4,11
+Green Beans,Vegetable,7,100,22,1.50,2.80,Summer,Thursday,1.30,0,8,12
+Hot Dogs,Meat,12,55,20,3.00,5.00,All-Season,Friday,2.00,0,5,11
+Mayonnaise,pantry,180,135,18,2.20,3.80,All-Season,Saturday,1.60,0,0,0
+Frozen Waffles,frozen_food,365,75,18,2.80,4.50,All-Season,Sunday,1.70,0,0,0
+Asparagus,Vegetable,4,35,15,3.50,5.50,Spring,Monday,2.00,0,8,18
+Mangoes,Fruit,4,55,22,2.00,3.50,Summer,Tuesday,1.50,0,11,21
+Whipping Cream,Dairy,10,35,10,2.50,4.00,All-Season,Wednesday,1.50,0,3,8
+Rye Bread,Bakery,4,25,15,2.20,3.80,All-Season,Thursday,1.60,0,5,13
+Cabbage,Vegetable,12,140,28,0.50,1.10,All-Season,Friday,0.60,0,5,6
+Ground Turkey,Meat,2,40,18,4.50,7.00,All-Season,Saturday,2.50,1,8,26
+Pickles,pantry,365,95,12,2.00,3.50,All-Season,Sunday,1.50,0,0,0
+Frozen Berries,frozen_food,365,85,15,4.50,7.00,All-Season,Monday,2.50,0,0,0
+Radishes,Vegetable,8,65,18,0.80,1.50,Spring,Tuesday,0.70,0,6,10
+Pears,Fruit,8,110,20,1.20,2.20,Fall,Wednesday,1.00,0,5,8
+Buttermilk,Dairy,12,25,8,1.90,3.20,All-Season,Thursday,1.30,0,2,6
+Scones,Bakery,2,18,18,1.80,3.20,All-Season,Friday,1.40,1,7,32
+Celery,Vegetable,12,90,22,1.00,1.90,All-Season,Saturday,0.90,0,5,8
+Lamb Chops,Meat,3,18,7,9.00,14.00,All-Season,Sunday,5.00,1,4,25
+Mustard,pantry,365,145,18,1.20,2.20,All-Season,Monday,1.00,0,0,0
+Frozen Vegetables,frozen_food,730,240,32,2.00,3.50,All-Season,Tuesday,1.50,0,0,0
+Leeks,Vegetable,10,45,12,1.80,3.00,Spring,Wednesday,1.20,0,4,9
+Kiwis,Fruit,12,75,18,0.80,1.50,All-Season,Thursday,0.70,0,3,6
+Chocolate Milk,beverage,8,65,22,1.50,2.80,All-Season,Friday,1.30,0,4,8
+Tortillas,Bakery,18,90,28,1.80,3.00,All-Season,Saturday,1.20,0,2,4
+Artichokes,Vegetable,6,25,7,2.50,4.00,Spring,Sunday,1.50,0,5,15
+Ham,Meat,6,45,15,6.00,9.50,All-Season,Monday,3.50,0,4,12
+Honey,pantry,1095,115,12,4.50,7.00,All-Season,Tuesday,2.50,0,0,0
+Ice Cream Bars,frozen_food,365,85,20,3.50,5.50,Summer,Wednesday,2.00,0,0,0
+Kale,Vegetable,6,55,18,1.80,3.00,All-Season,Thursday,1.20,0,6,11
+Nectarines,Fruit,4,60,25,2.00,3.50,Summer,Friday,1.50,0,11,20
+Provolone Cheese,Dairy,22,45,10,4.00,6.50,All-Season,Saturday,2.50,0,2,6
+Brownies,Bakery,3,22,20,1.50,3.00,All-Season,Sunday,1.50,1,6,29
+Sweet Potatoes,Vegetable,28,190,32,0.60,1.30,Fall,Monday,0.70,0,5,5
+Ribeye Steak,Meat,2,12,7,12.00,18.00,All-Season,Tuesday,6.00,1,4,30
+Salsa,pantry,180,85,18,2.50,4.00,All-Season,Wednesday,1.50,0,0,0
+Frozen Fish Fillets,frozen_food,365,105,15,5.00,8.00,All-Season,Thursday,3.00,0,0,0
+Beets,Vegetable,12,75,15,1.00,1.90,Fall,Friday,0.90,0,4,8
+Cantaloupe,Fruit,6,35,12,2.20,3.80,Summer,Saturday,1.60,0,6,15
+Feta Cheese,Dairy,28,35,8,3.50,5.50,All-Season,Sunday,2.00,0,2,5
+Cupcakes,Bakery,2,28,22,1.30,2.80,All-Season,Monday,1.50,1,9,32
+Corn,Vegetable,4,140,38,0.50,1.00,Summer,Tuesday,0.50,0,14,18
+Ground Pork,Meat,2,45,18,3.50,5.50,All-Season,Wednesday,2.00,1,8,25
+Jam,pantry,365,125,15,2.80,4.50,All-Season,Thursday,1.70,0,0,0
+Frozen Chicken Nuggets,frozen_food,365,115,25,4.50,7.00,All-Season,Friday,2.50,0,0,0
+Turnips,Vegetable,12,55,12,0.90,1.80,Fall,Saturday,0.90,0,4,9
+Raspberries,Fruit,2,30,20,4.50,7.00,Summer,Sunday,2.50,0,14,35
+Swiss Cheese,Dairy,25,55,10,4.20,6.80,All-Season,Monday,2.60,0,2,6
+Cookies,Bakery,12,75,28,1.00,2.20,All-Season,Tuesday,1.20,0,4,10
+Okra,Vegetable,4,45,15,2.20,3.80,Summer,Wednesday,1.60,0,9,18
+Deli Sliced Turkey,Meat,4,28,12,7.00,11.00,All-Season,Thursday,4.00,0,4,18
+Peanut Butter,pantry,365,190,22,2.80,4.50,All-Season,Friday,1.70,0,0,0
+Frozen French Fries,frozen_food,730,170,28,2.20,3.80,All-Season,Saturday,1.60,0,0,0
+Parsnips,Vegetable,19,35,10,1.50,2.80,Winter,Sunday,1.30,0,3,8
+Papaya,Fruit,4,28,10,2.80,4.50,All-Season,Monday,1.70,0,7,19
+Ricotta Cheese,Dairy,8,30,8,3.00,4.80,All-Season,Tuesday,1.80,0,3,10
+Cake Slice,Bakery,1,12,12,2.50,4.50,All-Season,Wednesday,2.00,1,8,58
+Brussels Sprouts,Vegetable,8,45,12,2.00,3.50,Fall,Thursday,1.50,0,5,11
+Deli Sliced Ham,Meat,4,30,15,6.50,10.50,All-Season,Friday,4.00,0,4,16
+Olive Oil,pantry,730,95,10,8.00,12.50,All-Season,Saturday,4.50,0,0,0
+Frozen Shrimp,frozen_food,365,65,12,9.00,14.00,All-Season,Sunday,5.00,0,0,0
+Fennel,Vegetable,8,28,8,2.20,3.80,Spring,Monday,1.60,0,4,10
+Blackberries,Fruit,3,28,18,4.20,6.80,Summer,Tuesday,2.60,0,11,28
+Goat Cheese,Dairy,19,22,7,5.00,8.00,All-Season,Wednesday,3.00,0,2,7
+Pie Slice,Bakery,2,18,18,2.80,4.80,All-Season,Thursday,2.00,1,8,38
+Scallions,Vegetable,8,70,22,0.70,1.40,All-Season,Friday,0.70,0,6,11
+Sirloin Steak,Meat,3,18,8,10.00,16.00,All-Season,Saturday,6.00,1,4,26
+Vinegar,pantry,1095,175,12,1.50,2.50,All-Season,Sunday,1.00,0,0,0
+Frozen Peas,frozen_food,730,210,30,1.80,3.00,All-Season,Monday,1.20,0,0,0
+Collard Greens,Vegetable,7,45,15,1.90,3.20,Winter,Tuesday,1.30,0,6,12
+Cranberries,Fruit,19,35,10,2.50,4.00,Fall,Wednesday,1.50,0,2,5
+Mascarpone,Dairy,6,18,6,4.50,7.00,All-Season,Thursday,2.50,0,2,10
+Cheesecake Slice,Bakery,3,15,15,3.50,6.00,All-Season,Friday,2.50,1,5,32
+Ginger,Vegetable,28,90,18,2.00,3.50,All-Season,Saturday,1.50,0,2,4
+Deli Sliced Roast Beef,Meat,3,22,10,8.50,13.50,All-Season,Sunday,5.00,1,4,24
+Soy Sauce,pantry,730,155,18,2.00,3.50,All-Season,Monday,1.50,0,0,0
+Frozen Corn,frozen_food,730,230,32,1.70,2.90,All-Season,Tuesday,1.20,0,0,0
+Mustard Greens,Vegetable,6,40,12,1.80,3.00,Winter,Wednesday,1.20,0,5,11
+Passion Fruit,Fruit,6,22,8,1.50,2.80,All-Season,Thursday,1.30,0,4,13
+Blue Cheese,Dairy,25,28,7,5.50,8.50,All-Season,Friday,3.00,0,2,7
+Tiramisu Slice,Bakery,1,10,10,4.00,7.00,All-Season,Saturday,3.00,1,6,65
+Garlic,Vegetable,85,190,32,0.30,0.70,All-Season,Sunday,0.40,0,3,2
+Deli Sliced Salami,Meat,19,35,12,7.50,12.00,All-Season,Monday,4.50,0,2,8
+Hot Sauce,pantry,365,115,15,2.20,3.80,All-Season,Tuesday,1.60,0,0,0
+Frozen Broccoli Cuts,frozen_food,730,190,28,1.90,3.20,All-Season,Wednesday,1.30,0,0,0
+Swiss Chard,Vegetable,6,35,12,2.00,3.50,Spring,Thursday,1.50,0,5,12
+Guava,Fruit,5,30,10,1.20,2.20,All-Season,Friday,1.00,0,6,15
+Brie,Dairy,12,25,8,6.00,9.50,All-Season,Saturday,3.50,0,2,8
+Macarons,Bakery,4,45,22,1.00,2.50,All-Season,Sunday,1.50,0,6,18
+Organic Bananas,Fruit,4,60,22,0.85,1.30,All-Season,Monday,0.45,0,6,12
+Cheddar Cheese,Dairy,14,95,7,2.60,4.10,All-Season,Tuesday,1.50,0,2,6
+Whole Wheat Bread,Bakery,3,50,25,1.10,2.10,All-Season,Wednesday,1.00,1,8,20
+Tomatoes,Vegetable,5,190,42,0.45,0.95,Summer,Thursday,0.50,0,10,15
+Greek Yogurt,Dairy,9,115,10,1.30,2.60,All-Season,Friday,1.30,0,3,8
+Apples,Fruit,16,260,16,0.55,1.10,Fall,Saturday,0.55,0,1,4
+Chicken Breast,Meat,3,55,18,3.10,5.20,All-Season,Sunday,2.10,1,5,22
+Baguette,Bakery,1,40,40,0.80,1.90,All-Season,Monday,1.10,1,20,58
+Lettuce,Vegetable,6,85,18,0.75,1.60,Spring,Tuesday,0.85,0,6,12
+Milk,Dairy,7,100,35,1.60,2.90,All-Season,Wednesday,1.30,0,5,10
+Strawberries,Fruit,3,70,28,2.10,3.60,Summer,Thursday,1.50,1,14,25
+Ground Beef,Meat,3,52,20,4.20,6.70,All-Season,Friday,2.50,1,7,22
+Croissants,Bakery,1,30,30,0.95,2.30,All-Season,Saturday,1.35,1,18,55
+Spinach,Vegetable,5,80,25,1.15,2.10,Spring,Sunday,0.95,0,8,14
+Dish Soap,household,365,215,16,1.60,2.60,All-Season,Monday,1.00,0,0,0
+Watermelon,Fruit,20,80,10,3.20,5.20,Summer,Tuesday,2.00,0,1,3
+Bleach,household,365,145,8,2.10,3.60,All-Season,Wednesday,1.50,0,0,0
+Ice Cream,frozen_food,95,135,20,2.60,4.60,Summer,Thursday,2.00,1,0,3
+Sugar,grocery,730,460,42,0.85,1.60,All-Season,Friday,0.75,0,0,0
+Shampoo,personal_care,730,175,25,3.20,5.70,All-Season,Saturday,2.50,0,0,0
+Hand Sanitizer,personal_care,730,245,30,2.30,4.10,All-Season,Sunday,1.80,0,0,0
+Cauliflower,Vegetable,7,90,14,0.95,1.90,Fall,Monday,0.95,0,3,8
+Canned Tuna,pantry,1095,285,25,1.05,2.00,All-Season,Tuesday,0.95,0,0,0
+Paper Towels,household,1095,385,40,1.25,2.30,All-Season,Wednesday,1.05,0,0,0
+Organic Gala Apples,Fruit,15,155,12,0.90,1.80,Fall,Thursday,0.90,0,0,3
+Sourdough Bread,Bakery,5,32,12,2.50,4.50,All-Season,Friday,2.00,0,1,8
+Salmon Fillet,Meat,3,28,8,8.00,12.50,All-Season,Saturday,4.50,1,2,20
+Almond Milk,Dairy,22,62,6,2.80,4.20,All-Season,Sunday,1.40,0,0,4
+Broccoli,Vegetable,8,105,18,1.20,2.20,All-Season,Monday,1.00,0,4,7
+Avocado,Fruit,4,85,28,1.50,2.50,All-Season,Tuesday,1.00,0,8,18
+Pork Chops,Meat,4,42,10,4.50,7.00,All-Season,Wednesday,2.50,1,3,18
+Orange Juice,beverage,32,125,22,2.00,3.50,All-Season,Thursday,1.50,0,0,2
+Pasta,pantry,730,205,28,1.00,1.80,All-Season,Friday,0.80,0,0,0
+Laundry Detergent,household,1095,155,10,8.00,12.00,All-Season,Saturday,4.00,0,0,0
+Toothpaste,personal_care,730,255,18,1.80,3.00,All-Season,Sunday,1.20,0,0,0
+Potatoes,Vegetable,32,410,48,0.30,0.70,All-Season,Monday,0.40,0,4,2
+Blueberries,Fruit,6,52,18,3.00,4.50,Summer,Tuesday,1.50,0,6,12
+Butter,Dairy,62,102,12,3.50,5.00,All-Season,Wednesday,1.50,0,0,1
+Bagels,Bakery,6,42,16,1.50,2.80,All-Season,Thursday,1.30,0,2,7
+Onions,Vegetable,62,305,38,0.25,0.60,All-Season,Friday,0.35,0,3,1
+Grapes,Fruit,8,95,22,2.20,3.80,Fall,Saturday,1.60,0,5,9
+Eggs,Dairy,23,155,38,1.80,3.20,All-Season,Sunday,1.40,0,2,3
+Turkey Breast,Meat,5,38,8,5.00,8.00,All-Season,Monday,3.00,1,1,15
+Cereal,grocery,365,185,20,2.50,4.00,All-Season,Tuesday,1.50,0,0,0
+Ketchup,pantry,540,165,16,1.50,2.50,All-Season,Wednesday,1.00,0,0,0
+Tofu,Vegetable,12,52,10,2.00,3.50,All-Season,Thursday,1.50,0,1,6
+Frozen Pizza,frozen_food,365,102,18,4.00,6.50,All-Season,Friday,2.50,0,0,0
+Cucumbers,Vegetable,9,125,25,0.60,1.20,Summer,Saturday,0.60,0,6,9
+Peaches,Fruit,5,75,22,1.80,3.00,Summer,Sunday,1.20,0,8,16
+Cream Cheese,Dairy,28,62,8,2.20,3.80,All-Season,Monday,1.60,0,1,5
+Muffins,Bakery,4,32,18,1.20,2.50,All-Season,Tuesday,1.30,1,4,20
+Carrots,Vegetable,23,255,32,0.40,0.90,All-Season,Wednesday,0.50,0,3,4
+Sausages,Meat,8,58,16,3.80,6.00,All-Season,Thursday,2.20,0,2,10
+Coffee,grocery,365,122,25,6.00,9.50,All-Season,Friday,3.50,0,0,0
+Rice,pantry,1095,505,58,0.90,1.50,All-Season,Saturday,0.60,0,0,0
+Deodorant,personal_care,730,182,12,2.80,4.50,All-Season,Sunday,1.70,0,0,0
+Bell Peppers,Vegetable,12,145,20,1.00,2.00,Summer,Monday,1.00,0,5,7
+Cherries,Fruit,6,42,16,4.00,6.50,Summer,Tuesday,2.50,0,6,15
+Sour Cream,Dairy,20,68,12,1.60,2.80,All-Season,Wednesday,1.20,0,2,6
+Donuts,Bakery,1,42,42,0.80,1.80,All-Season,Thursday,1.00,1,25,60
+Zucchini,Vegetable,8,92,18,0.90,1.80,Summer,Friday,0.90,0,4,10
+Plums,Fruit,7,62,20,1.90,3.20,Summer,Saturday,1.30,0,6,12
+Cottage Cheese,Dairy,17,78,10,2.00,3.50,All-Season,Sunday,1.50,0,2,6
+Pita Bread,Bakery,7,38,12,1.30,2.50,All-Season,Monday,1.20,0,2,8
+Mushrooms,Vegetable,8,62,16,2.50,4.00,All-Season,Tuesday,1.50,0,3,9
+Bacon,Meat,16,42,16,5.50,8.50,All-Season,Wednesday,3.00,0,1,6
+Tea,grocery,730,205,22,3.00,5.00,All-season,Thursday,2.00,0,0,0
+Flour,pantry,365,305,28,1.20,2.20,All-Season,Friday,1.00,0,0,0
+Soap Bar,personal_care,1095,305,18,0.90,1.50,All-Season,Saturday,0.60,0,0,0
+Eggplant,Vegetable,9,68,16,1.10,2.10,Summer,Sunday,1.00,0,3,8
+Pineapple,Fruit,8,52,12,2.50,4.00,All-Season,Monday,1.50,0,4,10
+Half & Half,Dairy,12,48,12,1.80,3.00,All-Season,Tuesday,1.20,0,1,6
+English Muffins,Bakery,8,28,10,1.80,3.20,All-Season,Wednesday,1.40,0,1,7
+Green Beans,Vegetable,9,105,18,1.50,2.80,Summer,Thursday,1.30,0,5,9
+Hot Dogs,Meat,16,58,18,3.00,5.00,All-Season,Friday,2.00,0,2,8
+Mayonnaise,pantry,180,142,12,2.20,3.80,All-Season,Saturday,1.60,0,0,0
+Frozen Waffles,frozen_food,365,78,16,2.80,4.50,All-Season,Sunday,1.70,0,0,0
+Asparagus,Vegetable,6,42,12,3.50,5.50,Spring,Monday,2.00,0,4,12
+Mangoes,Fruit,6,62,18,2.00,3.50,Summer,Tuesday,1.50,0,7,16
+Whipping Cream,Dairy,14,38,8,2.50,4.00,All-Season,Wednesday,1.50,0,1,6
+Rye Bread,Bakery,6,28,12,2.20,3.80,All-Season,Thursday,1.60,0,2,9
+Cabbage,Vegetable,16,145,25,0.50,1.10,All-Season,Friday,0.60,0,2,4
+Ground Turkey,Meat,4,42,16,4.50,7.00,All-Season,Saturday,2.50,1,3,20
+Pickles,pantry,365,98,10,2.00,3.50,All-Season,Sunday,1.50,0,0,0
+Frozen Berries,frozen_food,365,88,12,4.50,7.00,All-Season,Monday,2.50,0,0,0
+Radishes,Vegetable,12,68,15,0.80,1.50,Spring,Tuesday,0.70,0,3,7
+Pears,Fruit,12,115,18,1.20,2.20,Fall,Wednesday,1.00,0,2,5
+Buttermilk,Dairy,16,28,6,1.90,3.20,All-Season,Thursday,1.30,0,1,4
+Scones,Bakery,4,22,15,1.80,3.20,All-Season,Friday,1.40,1,3,22
+Celery,Vegetable,16,95,20,1.00,1.90,All-Season,Saturday,0.90,0,2,5
+Lamb Chops,Meat,5,22,5,9.00,14.00,All-Season,Sunday,5.00,1,1,18
+Mustard,pantry,365,148,15,1.20,2.20,All-Season,Monday,1.00,0,0,0
+Frozen Vegetables,frozen_food,730,245,30,2.00,3.50,All-Season,Tuesday,1.50,0,0,0
+Leeks,Vegetable,14,48,10,1.80,3.00,Spring,Wednesday,1.20,0,1,6
+Kiwis,Fruit,16,78,15,0.80,1.50,All-Season,Thursday,0.70,0,1,4
+Chocolate Milk,beverage,12,68,20,1.50,2.80,All-Season,Friday,1.30,0,1,5
+Tortillas,Bakery,22,95,25,1.80,3.00,All-Season,Saturday,1.20,0,1,3
+Artichokes,Vegetable,8,28,5,2.50,4.00,Spring,Sunday,1.50,0,2,10
+Ham,Meat,8,48,12,6.00,9.50,All-Season,Monday,3.50,0,1,9
+Honey,pantry,1095,118,10,4.50,7.00,All-Season,Tuesday,2.50,0,0,0
+Ice Cream Bars,frozen_food,365,88,18,3.50,5.50,Summer,Wednesday,2.00,0,0,0
+Kale,Vegetable,8,58,15,1.80,3.00,All-Season,Thursday,1.20,0,3,8
+Nectarines,Fruit,6,62,22,2.00,3.50,Summer,Friday,1.50,0,7,15
+Provolone Cheese,Dairy,26,48,8,4.00,6.50,All-Season,Saturday,2.50,0,1,5
+Brownies,Bakery,5,28,18,1.50,3.00,All-Season,Sunday,1.50,1,3,20
+Sweet Potatoes,Vegetable,32,195,30,0.60,1.30,Fall,Monday,0.70,0,2,3
+Ribeye Steak,Meat,4,18,5,12.00,18.00,All-Season,Tuesday,6.00,1,1,22
+Salsa,pantry,180,88,15,2.50,4.00,All-Season,Wednesday,1.50,0,0,0
+Frozen Fish Fillets,frozen_food,365,108,12,5.00,8.00,All-Season,Thursday,3.00,0,0,0
+Beets,Vegetable,16,78,12,1.00,1.90,Fall,Friday,0.90,0,1,5
+Cantaloupe,Fruit,8,38,10,2.20,3.80,Summer,Saturday,1.60,0,3,10
+Feta Cheese,Dairy,32,38,6,3.50,5.50,All-Season,Sunday,2.00,0,1,4
+Cupcakes,Bakery,4,32,20,1.30,2.80,All-Season,Monday,1.50,1,5,25
+Corn,Vegetable,6,145,35,0.50,1.00,Summer,Tuesday,0.50,0,8,12
+Ground Pork,Meat,4,48,15,3.50,5.50,All-Season,Wednesday,2.00,1,4,18
+Jam,pantry,365,128,12,2.80,4.50,All-Season,Thursday,1.70,0,0,0
+Frozen Chicken Nuggets,frozen_food,365,118,22,4.50,7.00,All-Season,Friday,2.50,0,0,0
+Turnips,Vegetable,16,58,10,0.90,1.80,Fall,Saturday,0.90,0,1,6
+Raspberries,Fruit,4,38,18,4.50,7.00,Summer,Sunday,2.50,0,8,20
+Swiss Cheese,Dairy,28,58,8,4.20,6.80,All-Season,Monday,2.60,0,1,5
+Cookies,Bakery,16,78,25,1.00,2.20,All-Season,Tuesday,1.20,0,1,6
+Okra,Vegetable,6,48,12,2.20,3.80,Summer,Wednesday,1.60,0,5,12
+Deli Sliced Turkey,Meat,6,32,10,7.00,11.00,All-Season,Thursday,4.00,0,1,12
+Peanut Butter,pantry,365,195,20,2.80,4.50,All-Season,Friday,1.70,0,0,0
+Frozen French Fries,frozen_food,730,175,25,2.20,3.80,All-Season,Saturday,1.60,0,0,0
+Parsnips,Vegetable,23,38,8,1.50,2.80,Winter,Sunday,1.30,0,1,6
+Papaya,Fruit,6,32,8,2.80,4.50,All-Season,Monday,1.70,0,4,15
+Ricotta Cheese,Dairy,12,32,6,3.00,4.80,All-Season,Tuesday,1.80,0,1,7
+Cake Slice,Bakery,3,18,12,2.50,4.50,All-Season,Wednesday,2.00,1,4,30
+Brussels Sprouts,Vegetable,12,48,10,2.00,3.50,Fall,Thursday,1.50,0,2,8
+Deli Sliced Ham,Meat,6,32,12,6.50,10.50,All-Season,Friday,4.00,0,1,11
+Olive Oil,pantry,730,98,8,8.00,12.50,All-Season,Saturday,4.50,0,0,0
+Frozen Shrimp,frozen_food,365,68,10,9.00,14.00,All-Season,Sunday,5.00,0,0,0
+Fennel,Vegetable,12,32,6,2.20,3.80,Spring,Monday,1.60,0,1,7
+Blackberries,Fruit,5,32,15,4.20,6.80,Summer,Tuesday,2.60,0,7,20
+Goat Cheese,Dairy,23,28,5,5.00,8.00,All-Season,Wednesday,3.00,0,1,6
+Pie Slice,Bakery,4,22,15,2.80,4.80,All-Season,Thursday,2.00,1,4,25
+Scallions,Vegetable,12,75,20,0.70,1.40,All-Season,Friday,0.70,0,3,8
+Sirloin Steak,Meat,5,22,6,10.00,16.00,All-Season,Saturday,6.00,1,1,20
+Vinegar,pantry,1095,178,10,1.50,2.50,All-Season,Sunday,1.00,0,0,0
+Frozen Peas,frozen_food,730,215,28,1.80,3.00,All-Season,Monday,1.20,0,0,0
+Collard Greens,Vegetable,9,48,12,1.90,3.20,Winter,Tuesday,1.30,0,3,9
+Cranberries,Fruit,23,38,8,2.50,4.00,Fall,Wednesday,1.50,0,1,4
+Mascarpone,Dairy,8,22,4,4.50,7.00,All-Season,Thursday,2.50,0,1,7
+Cheesecake Slice,Bakery,5,18,12,3.50,6.00,All-Season,Friday,2.50,1,2,22
+Ginger,Vegetable,32,95,15,2.00,3.50,All-Season,Saturday,1.50,0,1,3
+Deli Sliced Roast Beef,Meat,5,28,8,8.50,13.50,All-Season,Sunday,5.00,1,1,18
+Soy Sauce,pantry,730,158,15,2.00,3.50,All-Season,Monday,1.50,0,0,0
+Frozen Corn,frozen_food,730,235,30,1.70,2.90,All-Season,Tuesday,1.20,0,0,0
+Mustard Greens,Vegetable,8,42,10,1.80,3.00,Winter,Wednesday,1.20,0,2,8
+Passion Fruit,Fruit,8,28,6,1.50,2.80,All-Season,Thursday,1.30,0,2,10
+Blue Cheese,Dairy,28,32,5,5.50,8.50,All-Season,Friday,3.00,0,1,6
+Tiramisu Slice,Bakery,3,12,10,4.00,7.00,All-Season,Saturday,3.00,1,3,35
+Garlic,Vegetable,88,195,30,0.30,0.70,All-Season,Sunday,0.40,0,1,1
+Deli Sliced Salami,Meat,23,38,10,7.50,12.00,All-Season,Monday,4.50,0,1,6
+Hot Sauce,pantry,365,118,12,2.20,3.80,All-Season,Tuesday,1.60,0,0,0
+Frozen Broccoli Cuts,frozen_food,730,195,25,1.90,3.20,All-Season,Wednesday,1.30,0,0,0
+Swiss Chard,Vegetable,8,38,10,2.00,3.50,Spring,Thursday,1.50,0,2,8
+Guava,Fruit,7,32,8,1.20,2.20,All-Season,Friday,1.00,0,3,11
+Brie,Dairy,16,28,6,6.00,9.50,All-Season,Saturday,3.50,0,1,6
+Macarons,Bakery,6,48,20,1.00,2.50,All-Season,Sunday,1.50,0,3,12
+Organic Bananas,Fruit,5,65,20,0.85,1.30,All-Season,Monday,0.45,0,5,10
+Cheddar Cheese,Dairy,16,98,6,2.60,4.10,All-Season,Tuesday,1.50,0,1,5
+Whole Wheat Bread,Bakery,4,55,22,1.10,2.10,All-Season,Wednesday,1.00,1,6,18
+Tomatoes,Vegetable,6,200,40,0.45,0.95,Summer,Thursday,0.50,0,8,12
+Greek Yogurt,Dairy,10,120,8,1.30,2.60,All-Season,Friday,1.30,0,2,7
+Apples,Fruit,18,270,14,0.55,1.10,Fall,Saturday,0.55,0,0,3
+Chicken Breast,Meat,4,60,16,3.10,5.20,All-Season,Sunday,2.10,1,4,18
+Baguette,Bakery,1,45,45,0.80,1.90,All-Season,Monday,1.10,1,22,62
+Lettuce,Vegetable,7,90,16,0.75,1.60,Spring,Tuesday,0.85,0,5,10
+Milk,Dairy,8,105,32,1.60,2.90,All-Season,Wednesday,1.30,0,4,9
+Strawberries,Fruit,4,75,25,2.10,3.60,Summer,Thursday,1.50,1,12,22
+Ground Beef,Meat,4,55,18,4.20,6.70,All-Season,Friday,2.50,1,6,20
+Croissants,Bakery,1,32,32,0.95,2.30,All-Season,Saturday,1.35,1,20,58
+Spinach,Vegetable,6,85,22,1.15,2.10,Spring,Sunday,0.95,0,7,12
+Dish Soap,household,365,220,14,1.60,2.60,All-Season,Monday,1.00,0,0,0
+Watermelon,Fruit,22,85,8,3.20,5.20,Summer,Tuesday,2.00,0,0,2
+Bleach,household,365,150,6,2.10,3.60,All-Season,Wednesday,1.50,0,0,0
+Ice Cream,frozen_food,100,140,18,2.60,4.60,Summer,Thursday,2.00,1,0,2
+Sugar,grocery,730,470,40,0.85,1.60,All-Season,Friday,0.75,0,0,0
+Shampoo,personal_care,730,180,22,3.20,5.70,All-Season,Saturday,2.50,0,0,0
+Hand Sanitizer,personal_care,730,250,28,2.30,4.10,All-Season,Sunday,1.80,0,0,0
+Cauliflower,Vegetable,8,95,12,0.95,1.90,Fall,Monday,0.95,0,2,7
+Canned Tuna,pantry,1095,290,22,1.05,2.00,All-Season,Tuesday,0.95,0,0,0
+Paper Towels,household,1095,390,38,1.25,2.30,All-Season,Wednesday,1.05,0,0,0
+Organic Gala Apples,Fruit,16,160,10,0.90,1.80,Fall,Thursday,0.90,0,0,2
+Sourdough Bread,Bakery,6,35,10,2.50,4.50,All-Season,Friday,2.00,0,0,6
+Salmon Fillet,Meat,4,30,6,8.00,12.50,All-Season,Saturday,4.50,1,1,18
+Almond Milk,Dairy,24,65,4,2.80,4.20,All-Season,Sunday,1.40,0,0,3
+Broccoli,Vegetable,9,110,16,1.20,2.20,All-Season,Monday,1.00,0,3,6
+Avocado,Fruit,5,90,25,1.50,2.50,All-Season,Tuesday,1.00,0,7,15
+Pork Chops,Meat,5,45,8,4.50,7.00,All-Season,Wednesday,2.50,1,2,15
+Orange Juice,beverage,34,130,20,2.00,3.50,All-Season,Thursday,1.50,0,0,1
+Pasta,pantry,730,210,25,1.00,1.80,All-Season,Friday,0.80,0,0,0
+Laundry Detergent,household,1095,160,8,8.00,12.00,All-Season,Saturday,4.00,0,0,0
+Toothpaste,personal_care,730,260,16,1.80,3.00,All-Season,Sunday,1.20,0,0,0
+Potatoes,Vegetable,34,420,45,0.30,0.70,All-Season,Monday,0.40,0,3,1
+Blueberries,Fruit,7,55,16,3.00,4.50,Summer,Tuesday,1.50,0,5,10
+Butter,Dairy,64,105,10,3.50,5.00,All-Season,Wednesday,1.50,0,0,1
+Bagels,Bakery,7,45,14,1.50,2.80,All-Season,Thursday,1.30,0,1,6
+Onions,Vegetable,64,310,35,0.25,0.60,All-Season,Friday,0.35,0,2,1
+Grapes,Fruit,9,100,20,2.20,3.80,Fall,Saturday,1.60,0,4,8
+Eggs,Dairy,25,160,35,1.80,3.20,All-Season,Sunday,1.40,0,1,2
+Turkey Breast,Meat,6,40,6,5.00,8.00,All-Season,Monday,3.00,1,0,12
+Cereal,grocery,365,190,18,2.50,4.00,All-Season,Tuesday,1.50,0,0,0
+Ketchup,pantry,540,170,14,1.50,2.50,All-Season,Wednesday,1.00,0,0,0
+Tofu,Vegetable,14,55,8,2.00,3.50,All-Season,Thursday,1.50,0,0,5
+Frozen Pizza,frozen_food,365,105,16,4.00,6.50,All-Season,Friday,2.50,0,0,0
+Cucumbers,Vegetable,10,130,22,0.60,1.20,Summer,Saturday,0.60,0,5,8
+Peaches,Fruit,6,80,20,1.80,3.00,Summer,Sunday,1.20,0,6,14
+Cream Cheese,Dairy,30,65,6,2.20,3.80,All-Season,Monday,1.60,0,0,4
+Muffins,Bakery,5,35,16,1.20,2.50,All-Season,Tuesday,1.30,1,3,18
+Carrots,Vegetable,25,260,30,0.40,0.90,All-Season,Wednesday,0.50,0,2,3
+Sausages,Meat,9,60,14,3.80,6.00,All-Season,Thursday,2.20,0,1,8
+Coffee,grocery,365,125,22,6.00,9.50,All-Season,Friday,3.50,0,0,0
+Rice,pantry,1095,510,55,0.90,1.50,All-Season,Saturday,0.60,0,0,0
+Deodorant,personal_care,730,185,10,2.80,4.50,All-Season,Sunday,1.70,0,0,0
+Bell Peppers,Vegetable,14,150,18,1.00,2.00,Summer,Monday,1.00,0,4,6
+Cherries,Fruit,7,45,14,4.00,6.50,Summer,Tuesday,2.50,0,5,12
+Sour Cream,Dairy,22,70,10,1.60,2.80,All-Season,Wednesday,1.20,0,1,5
+Donuts,Bakery,1,45,45,0.80,1.80,All-Season,Thursday,1.00,1,28,65
+Zucchini,Vegetable,9,95,16,0.90,1.80,Summer,Friday,0.90,0,3,9
+Plums,Fruit,8,65,18,1.90,3.20,Summer,Saturday,1.30,0,5,10
+Cottage Cheese,Dairy,19,80,8,2.00,3.50,All-Season,Sunday,1.50,0,1,5
+Pita Bread,Bakery,8,40,10,1.30,2.50,All-Season,Monday,1.20,0,1,7
+Mushrooms,Vegetable,9,65,14,2.50,4.00,All-Season,Tuesday,1.50,0,2,8
+Bacon,Meat,18,45,14,5.50,8.50,All-Season,Wednesday,3.00,0,0,5
+Tea,grocery,730,210,20,3.00,5.00,All-season,Thursday,2.00,0,0,0
+Flour,pantry,365,310,25,1.20,2.20,All-Season,Friday,1.00,0,0,0
+Soap Bar,personal_care,1095,310,16,0.90,1.50,All-Season,Saturday,0.60,0,0,0
+Eggplant,Vegetable,10,70,14,1.10,2.10,Summer,Sunday,1.00,0,2,7
+Pineapple,Fruit,9,55,10,2.50,4.00,All-Season,Monday,1.50,0,3,9
+Half & Half,Dairy,14,50,10,1.80,3.00,All-Season,Tuesday,1.20,0,0,5
+English Muffins,Bakery,9,30,8,1.80,3.20,All-Season,Wednesday,1.40,0,0,6
+Green Beans,Vegetable,10,110,16,1.50,2.80,Summer,Thursday,1.30,0,4,8
+Hot Dogs,Meat,18,60,16,3.00,5.00,All-Season,Friday,2.00,0,1,7
+Mayonnaise,pantry,180,145,10,2.20,3.80,All-Season,Saturday,1.60,0,0,0
+Frozen Waffles,frozen_food,365,80,14,2.80,4.50,All-Season,Sunday,1.70,0,0,0
+Asparagus,Vegetable,7,45,10,3.50,5.50,Spring,Monday,2.00,0,3,10
+Mangoes,Fruit,7,65,16,2.00,3.50,Summer,Tuesday,1.50,0,6,14
+Whipping Cream,Dairy,16,40,6,2.50,4.00,All-Season,Wednesday,1.50,0,0,5
+Rye Bread,Bakery,7,30,10,2.20,3.80,All-Season,Thursday,1.60,0,1,8
+Cabbage,Vegetable,18,150,22,0.50,1.10,All-Season,Friday,0.60,0,1,3
+Ground Turkey,Meat,5,45,14,4.50,7.00,All-Season,Saturday,2.50,1,2,18
+Pickles,pantry,365,100,8,2.00,3.50,All-Season,Sunday,1.50,0,0,0
+Frozen Berries,frozen_food,365,90,10,4.50,7.00,All-Season,Monday,2.50,0,0,0
+Radishes,Vegetable,14,70,12,0.80,1.50,Spring,Tuesday,0.70,0,2,6
+Pears,Fruit,14,120,16,1.20,2.20,Fall,Wednesday,1.00,0,1,4
+Buttermilk,Dairy,18,30,4,1.90,3.20,All-Season,Thursday,1.30,0,0,3
+Scones,Bakery,5,25,12,1.80,3.20,All-Season,Friday,1.40,1,2,20
+Celery,Vegetable,18,100,18,1.00,1.90,All-Season,Saturday,0.90,0,1,4
+Lamb Chops,Meat,6,25,4,9.00,14.00,All-Season,Sunday,5.00,1,0,15
+Mustard,pantry,365,150,12,1.20,2.20,All-Season,Monday,1.00,0,0,0
+Frozen Vegetables,frozen_food,730,250,28,2.00,3.50,All-Season,Tuesday,1.50,0,0,0
+Leeks,Vegetable,16,50,8,1.80,3.00,Spring,Wednesday,1.20,0,0,5
+Kiwis,Fruit,18,80,12,0.80,1.50,All-Season,Thursday,0.70,0,0,3
+Chocolate Milk,beverage,14,70,18,1.50,2.80,All-Season,Friday,1.30,0,0,4
+Tortillas,Bakery,24,100,22,1.80,3.00,All-Season,Saturday,1.20,0,0,2
+Artichokes,Vegetable,9,30,4,2.50,4.00,Spring,Sunday,1.50,0,1,9
+Ham,Meat,9,50,10,6.00,9.50,All-Season,Monday,3.50,0,0,8
+Honey,pantry,1095,120,8,4.50,7.00,All-Season,Tuesday,2.50,0,0,0
+Ice Cream Bars,frozen_food,365,90,16,3.50,5.50,Summer,Wednesday,2.00,0,0,0
+Kale,Vegetable,9,60,12,1.80,3.00,All-Season,Thursday,1.20,0,2,7
+Nectarines,Fruit,7,65,20,2.00,3.50,Summer,Friday,1.50,0,6,13
+Provolone Cheese,Dairy,28,50,6,4.00,6.50,All-Season,Saturday,2.50,0,0,4
+Brownies,Bakery,6,30,15,1.50,3.00,All-Season,Sunday,1.50,1,2,18
+Sweet Potatoes,Vegetable,34,200,28,0.60,1.30,Fall,Monday,0.70,0,1,2
+Ribeye Steak,Meat,5,20,4,12.00,18.00,All-Season,Tuesday,6.00,1,0,20
+Salsa,pantry,180,90,12,2.50,4.00,All-Season,Wednesday,1.50,0,0,0
+Frozen Fish Fillets,frozen_food,365,110,10,5.00,8.00,All-Season,Thursday,3.00,0,0,0
+Beets,Vegetable,18,80,10,1.00,1.90,Fall,Friday,0.90,0,0,4
+Cantaloupe,Fruit,9,40,8,2.20,3.80,Summer,Saturday,1.60,0,2,9
+Feta Cheese,Dairy,34,40,4,3.50,5.50,All-Season,Sunday,2.00,0,0,3
+Cupcakes,Bakery,5,35,18,1.30,2.80,All-Season,Monday,1.50,1,4,22
+Corn,Vegetable,7,150,32,0.50,1.00,Summer,Tuesday,0.50,0,6,10
+Ground Pork,Meat,5,50,12,3.50,5.50,All-Season,Wednesday,2.00,1,3,16
+Jam,pantry,365,130,10,2.80,4.50,All-Season,Thursday,1.70,0,0,0
+Frozen Chicken Nuggets,frozen_food,365,120,20,4.50,7.00,All-Season,Friday,2.50,0,0,0
+Turnips,Vegetable,18,60,8,0.90,1.80,Fall,Saturday,0.90,0,0,5
+Raspberries,Fruit,5,40,16,4.50,7.00,Summer,Sunday,2.50,0,7,18
+Swiss Cheese,Dairy,30,60,6,4.20,6.80,All-Season,Monday,2.60,0,0,4
+Cookies,Bakery,18,80,22,1.00,2.20,All-Season,Tuesday,1.20,0,0,5
+Okra,Vegetable,7,50,10,2.20,3.80,Summer,Wednesday,1.60,0,4,10
+Deli Sliced Turkey,Meat,7,35,8,7.00,11.00,All-Season,Thursday,4.00,0,0,10
+Peanut Butter,pantry,365,200,18,2.80,4.50,All-Season,Friday,1.70,0,0,0
+Frozen French Fries,frozen_food,730,180,22,2.20,3.80,All-Season,Saturday,1.60,0,0,0
+Parsnips,Vegetable,25,40,6,1.50,2.80,Winter,Sunday,1.30,0,0,5
+Papaya,Fruit,7,35,6,2.80,4.50,All-Season,Monday,1.70,0,3,12
+Ricotta Cheese,Dairy,14,35,4,3.00,4.80,All-Season,Tuesday,1.80,0,0,6
+Cake Slice,Bakery,4,20,10,2.50,4.50,All-Season,Wednesday,2.00,1,3,28
+Brussels Sprouts,Vegetable,14,50,8,2.00,3.50,Fall,Thursday,1.50,0,1,7
+Deli Sliced Ham,Meat,7,35,10,6.50,10.50,All-Season,Friday,4.00,0,0,10
+Olive Oil,pantry,730,100,6,8.00,12.50,All-Season,Saturday,4.50,0,0,0
+Frozen Shrimp,frozen_food,365,70,8,9.00,14.00,All-Season,Sunday,5.00,0,0,0
+Fennel,Vegetable,14,35,4,2.20,3.80,Spring,Monday,1.60,0,0,6
+Blackberries,Fruit,6,35,12,4.20,6.80,Summer,Tuesday,2.60,0,6,18
+Goat Cheese,Dairy,25,30,4,5.00,8.00,All-Season,Wednesday,3.00,0,0,5
+Pie Slice,Bakery,5,25,12,2.80,4.80,All-Season,Thursday,2.00,1,3,22
+Scallions,Vegetable,14,80,18,0.70,1.40,All-Season,Friday,0.70,0,2,7
+Sirloin Steak,Meat,6,25,4,10.00,16.00,All-Season,Saturday,6.00,1,0,18
+Vinegar,pantry,1095,180,8,1.50,2.50,All-Season,Sunday,1.00,0,0,0
+Frozen Peas,frozen_food,730,220,25,1.80,3.00,All-Season,Monday,1.20,0,0,0
+Collard Greens,Vegetable,10,50,10,1.90,3.20,Winter,Tuesday,1.30,0,2,8
+Cranberries,Fruit,25,40,6,2.50,4.00,Fall,Wednesday,1.50,0,0,3
+Mascarpone,Dairy,9,25,3,4.50,7.00,All-Season,Thursday,2.50,0,0,6
+Cheesecake Slice,Bakery,6,20,10,3.50,6.00,All-Season,Friday,2.50,1,1,20
+Ginger,Vegetable,35,100,12,2.00,3.50,All-Season,Saturday,1.50,0,0,2
+Deli Sliced Roast Beef,Meat,6,30,6,8.50,13.50,All-Season,Sunday,5.00,1,0,16
+Soy Sauce,pantry,730,160,12,2.00,3.50,All-Season,Monday,1.50,0,0,0
+Frozen Corn,frozen_food,730,240,28,1.70,2.90,All-Season,Tuesday,1.20,0,0,0
+Mustard Greens,Vegetable,9,45,8,1.80,3.00,Winter,Wednesday,1.20,0,1,7
+Passion Fruit,Fruit,9,30,4,1.50,2.80,All-Season,Thursday,1.30,0,1,9
+Blue Cheese,Dairy,30,35,4,5.50,8.50,All-Season,Friday,3.00,0,0,5
+Tiramisu Slice,Bakery,4,15,8,4.00,7.00,All-Season,Saturday,3.00,1,2,30
+Garlic,Vegetable,90,200,28,0.30,0.70,All-Season,Sunday,0.40,0,0,1
+Deli Sliced Salami,Meat,25,40,8,7.50,12.00,All-Season,Monday,4.50,0,0,5
+Hot Sauce,pantry,365,120,10,2.20,3.80,All-Season,Tuesday,1.60,0,0,0
+Frozen Broccoli Cuts,frozen_food,730,200,22,1.90,3.20,All-Season,Wednesday,1.30,0,0,0
+Swiss Chard,Vegetable,9,40,8,2.00,3.50,Spring,Thursday,1.50,0,1,7
+Guava,Fruit,8,35,6,1.20,2.20,All-Season,Friday,1.00,0,2,10
+Brie,Dairy,18,30,4,6.00,9.50,All-Season,Saturday,3.50,0,0,5
+Macarons,Bakery,7,50,18,1.00,2.50,All-Season,Sunday,1.50,0,2,10
+Organic Bananas,Fruit,1,30,30,0.85,1.30,All-Season,Monday,0.45,1,20,60
+Cheddar Cheese,Dairy,8,70,12,2.60,4.10,All-Season,Tuesday,1.50,0,4,10
+Whole Wheat Bread,Bakery,1,25,25,1.10,2.10,All-Season,Wednesday,1.00,1,15,50
+Tomatoes,Vegetable,2,120,60,0.45,0.95,Summer,Thursday,0.50,0,25,35
+Greek Yogurt,Dairy,5,90,18,1.30,2.60,All-Season,Friday,1.30,0,6,12
+Apples,Fruit,10,200,22,0.55,1.10,Fall,Saturday,0.55,0,4,8
+Chicken Breast,Meat,1,30,28,3.10,5.20,All-Season,Sunday,2.10,1,12,55
+Baguette,Bakery,1,28,28,0.80,1.90,All-Season,Monday,1.10,1,16,52
+Lettuce,Vegetable,3,60,25,0.75,1.60,Spring,Tuesday,0.85,0,11,22
+Milk,Dairy,4,75,42,1.60,2.90,All-Season,Wednesday,1.30,0,10,18
+Strawberries,Fruit,1,40,40,2.10,3.60,Summer,Thursday,1.50,1,28,65
+Ground Beef,Meat,1,32,30,4.20,6.70,All-Season,Friday,2.50,1,18,50
+Croissants,Bakery,1,22,22,0.95,2.30,All-Season,Saturday,1.35,1,14,58
+Spinach,Vegetable,2,55,32,1.15,2.10,Spring,Sunday,0.95,0,15,30
+Dish Soap,household,365,190,12,1.60,2.60,All-Season,Monday,1.00,0,0,0
+Watermelon,Fruit,12,60,15,3.20,5.20,Summer,Tuesday,2.00,0,4,8
+Bleach,household,365,125,15,2.10,3.60,All-Season,Wednesday,1.50,0,0,0
+Ice Cream,frozen_food,75,110,28,2.60,4.60,Summer,Thursday,2.00,1,3,8
+Sugar,grocery,730,420,50,0.85,1.60,All-Season,Friday,0.75,0,0,0
+Shampoo,personal_care,730,155,32,3.20,5.70,All-Season,Saturday,2.50,0,0,0
+Hand Sanitizer,personal_care,730,220,38,2.30,4.10,All-Season,Sunday,1.80,0,0,0
+Cauliflower,Vegetable,4,70,20,0.95,1.90,Fall,Monday,0.95,0,8,16
+Canned Tuna,pantry,1095,265,32,1.05,2.00,All-Season,Tuesday,0.95,0,0,0
+Paper Towels,household,1095,360,48,1.25,2.30,All-Season,Wednesday,1.05,0,0,0
+Organic Gala Apples,Fruit,10,130,20,0.90,1.80,Fall,Thursday,0.90,0,3,7
+Sourdough Bread,Bakery,2,20,20,2.50,4.50,All-Season,Friday,2.00,1,8,35
+Salmon Fillet,Meat,1,18,15,8.00,12.50,All-Season,Saturday,4.50,1,8,52
+Almond Milk,Dairy,15,50,12,2.80,4.20,All-Season,Sunday,1.40,0,3,8
+Broccoli,Vegetable,5,80,25,1.20,2.20,All-Season,Monday,1.00,0,9,14
+Avocado,Fruit,1,60,40,1.50,2.50,All-Season,Tuesday,1.00,1,25,45
+Pork Chops,Meat,1,30,22,4.50,7.00,All-Season,Wednesday,2.50,1,12,40
+Orange Juice,beverage,25,100,30,2.00,3.50,All-Season,Thursday,1.50,0,3,5
+Pasta,pantry,730,180,35,1.00,1.80,All-Season,Friday,0.80,0,0,0
+Laundry Detergent,household,1095,135,18,8.00,12.00,All-Season,Saturday,4.00,0,0,0
+Toothpaste,personal_care,730,230,25,1.80,3.00,All-Season,Sunday,1.20,0,0,0
+Potatoes,Vegetable,25,360,58,0.30,0.70,All-Season,Monday,0.40,0,9,4
+Blueberries,Fruit,3,40,25,3.00,4.50,Summer,Tuesday,1.50,0,15,25
+Butter,Dairy,50,90,20,3.50,5.00,All-Season,Wednesday,1.50,0,3,4
+Bagels,Bakery,3,30,22,1.50,2.80,All-Season,Thursday,1.30,0,7,15
+Onions,Vegetable,50,260,45,0.25,0.60,All-Season,Friday,0.35,0,8,3
+Grapes,Fruit,5,70,30,2.20,3.80,Fall,Saturday,1.60,0,11,18
+Eggs,Dairy,17,130,45,1.80,3.20,All-Season,Sunday,1.40,0,6,7
+Turkey Breast,Meat,2,25,15,5.00,8.00,All-Season,Monday,3.00,1,7,28
+Cereal,grocery,365,165,28,2.50,4.00,All-Season,Tuesday,1.50,0,0,0
+Ketchup,pantry,540,145,22,1.50,2.50,All-Season,Wednesday,1.00,0,0,0
+Tofu,Vegetable,6,40,18,2.00,3.50,All-Season,Thursday,1.50,0,6,14
+Frozen Pizza,frozen_food,365,90,25,4.00,6.50,All-Season,Friday,2.50,0,0,0
+Cucumbers,Vegetable,6,100,32,0.60,1.20,Summer,Saturday,0.60,0,11,15
+Peaches,Fruit,2,50,30,1.80,3.00,Summer,Sunday,1.20,1,18,32
+Cream Cheese,Dairy,20,50,15,2.20,3.80,All-Season,Monday,1.60,0,4,9
+Muffins,Bakery,1,20,20,1.20,2.50,All-Season,Tuesday,1.30,1,10,48
+Carrots,Vegetable,17,230,40,0.40,0.90,All-Season,Wednesday,0.50,0,8,8
+Sausages,Meat,5,45,20,3.80,6.00,All-Season,Thursday,2.20,0,7,18
+Coffee,grocery,365,110,32,6.00,9.50,All-Season,Friday,3.50,0,0,0
+Rice,pantry,1095,460,68,0.90,1.50,All-Season,Saturday,0.60,0,0,0
+Deodorant,personal_care,730,165,20,2.80,4.50,All-Season,Sunday,1.70,0,0,0
+Bell Peppers,Vegetable,6,120,28,1.00,2.00,Summer,Monday,1.00,0,10,14
+Cherries,Fruit,3,30,22,4.00,6.50,Summer,Tuesday,2.50,0,13,28
+Sour Cream,Dairy,14,60,18,1.60,2.80,All-Season,Wednesday,1.20,0,7,11
+Donuts,Bakery,1,35,35,0.80,1.80,All-Season,Thursday,1.00,1,25,62
+Zucchini,Vegetable,5,80,25,0.90,1.80,Summer,Friday,0.90,0,9,16
+Plums,Fruit,4,50,28,1.90,3.20,Summer,Saturday,1.30,0,12,20
+Cottage Cheese,Dairy,11,70,15,2.00,3.50,All-Season,Sunday,1.50,0,5,9
+Pita Bread,Bakery,4,25,20,1.30,2.50,All-Season,Monday,1.20,0,7,16
+Mushrooms,Vegetable,5,50,22,2.50,4.00,All-Season,Tuesday,1.50,0,8,15
+Bacon,Meat,10,35,20,5.50,8.50,All-Season,Wednesday,3.00,0,5,12
+Tea,grocery,730,180,30,3.00,5.00,All-season,Thursday,2.00,0,0,0
+Flour,pantry,365,280,35,1.20,2.20,All-Season,Friday,1.00,0,0,0
+Soap Bar,personal_care,1095,280,25,0.90,1.50,All-Season,Saturday,0.60,0,0,0
+Eggplant,Vegetable,6,60,20,1.10,2.10,Summer,Sunday,1.00,0,8,14
+Pineapple,Fruit,5,40,20,2.50,4.00,All-Season,Monday,1.50,0,9,18
+Half & Half,Dairy,6,40,18,1.80,3.00,All-Season,Tuesday,1.20,0,6,12
+English Muffins,Bakery,5,18,18,1.80,3.20,All-Season,Wednesday,1.40,0,6,15
+Green Beans,Vegetable,6,90,25,1.50,2.80,Summer,Thursday,1.30,0,10,14
+Hot Dogs,Meat,10,50,22,3.00,5.00,All-Season,Friday,2.00,0,7,14
+Mayonnaise,pantry,180,130,20,2.20,3.80,All-Season,Saturday,1.60,0,0,0
+Frozen Waffles,frozen_food,365,70,20,2.80,4.50,All-Season,Sunday,1.70,0,0,0
+Asparagus,Vegetable,3,30,18,3.50,5.50,Spring,Monday,2.00,0,10,25
+Mangoes,Fruit,3,50,25,2.00,3.50,Summer,Tuesday,1.50,0,13,26
+Whipping Cream,Dairy,8,30,12,2.50,4.00,All-Season,Wednesday,1.50,0,5,11
+Rye Bread,Bakery,3,22,18,2.20,3.80,All-Season,Thursday,1.60,0,8,18
+Cabbage,Vegetable,10,130,30,0.50,1.10,All-Season,Friday,0.60,0,7,8
+Ground Turkey,Meat,1,35,20,4.50,7.00,All-Season,Saturday,2.50,1,12,38
+Pickles,pantry,365,90,15,2.00,3.50,All-Season,Sunday,1.50,0,0,0
+Frozen Berries,frozen_food,365,80,18,4.50,7.00,All-Season,Monday,2.50,0,0,0
+Radishes,Vegetable,6,60,20,0.80,1.50,Spring,Tuesday,0.70,0,8,13
+Pears,Fruit,6,100,22,1.20,2.20,Fall,Wednesday,1.00,0,7,10
+Buttermilk,Dairy,10,20,10,1.90,3.20,All-Season,Thursday,1.30,0,3,8
+Scones,Bakery,1,15,15,1.80,3.20,All-Season,Friday,1.40,1,9,45
+Celery,Vegetable,10,80,25,1.00,1.90,All-Season,Saturday,0.90,0,7,10
+Lamb Chops,Meat,2,15,8,9.00,14.00,All-Season,Sunday,5.00,1,6,35
+Mustard,pantry,365,140,20,1.20,2.20,All-Season,Monday,1.00,0,0,0
+Frozen Vegetables,frozen_food,730,230,35,2.00,3.50,All-Season,Tuesday,1.50,0,0,0
+Leeks,Vegetable,8,40,15,1.80,3.00,Spring,Wednesday,1.20,0,6,12
+Kiwis,Fruit,10,70,20,0.80,1.50,All-Season,Thursday,0.70,0,5,8
+Chocolate Milk,beverage,6,60,25,1.50,2.80,All-Season,Friday,1.30,0,6,10
+Tortillas,Bakery,15,80,30,1.80,3.00,All-Season,Saturday,1.20,0,4,6
+Artichokes,Vegetable,5,20,8,2.50,4.00,Spring,Sunday,1.50,0,7,18
+Ham,Meat,5,40,18,6.00,9.50,All-Season,Monday,3.50,0,6,15
+Honey,pantry,1095,110,15,4.50,7.00,All-Season,Tuesday,2.50,0,0,0
+Ice Cream Bars,frozen_food,365,80,22,3.50,5.50,Summer,Wednesday,2.00,0,0,0
+Kale,Vegetable,5,50,20,1.80,3.00,All-Season,Thursday,1.20,0,8,14
+Nectarines,Fruit,3,55,28,2.00,3.50,Summer,Friday,1.50,0,14,25
+Provolone Cheese,Dairy,20,40,12,4.00,6.50,All-Season,Saturday,2.50,0,3,8
+Brownies,Bakery,2,20,20,1.50,3.00,All-Season,Sunday,1.50,1,10,38
+Sweet Potatoes,Vegetable,25,180,35,0.60,1.30,Fall,Monday,0.70,0,6,6
+Ribeye Steak,Meat,1,10,8,12.00,18.00,All-Season,Tuesday,6.00,1,6,48
+Salsa,pantry,180,80,20,2.50,4.00,All-Season,Wednesday,1.50,0,0,0
+Frozen Fish Fillets,frozen_food,365,100,18,5.00,8.00,All-Season,Thursday,3.00,0,0,0
+Beets,Vegetable,10,70,18,1.00,1.90,Fall,Friday,0.90,0,6,10
+Cantaloupe,Fruit,5,30,15,2.20,3.80,Summer,Saturday,1.60,0,8,18
+Feta Cheese,Dairy,25,30,10,3.50,5.50,All-Season,Sunday,2.00,0,3,7
+Cupcakes,Bakery,1,25,25,1.30,2.80,All-Season,Monday,1.50,1,12,50
+Corn,Vegetable,3,120,40,0.50,1.00,Summer,Tuesday,0.50,0,18,25
+Ground Pork,Meat,1,40,22,3.50,5.50,All-Season,Wednesday,2.00,1,12,35
+Jam,pantry,365,120,18,2.80,4.50,All-Season,Thursday,1.70,0,0,0
+Frozen Chicken Nuggets,frozen_food,365,110,28,4.50,7.00,All-Season,Friday,2.50,0,0,0
+Turnips,Vegetable,10,50,15,0.90,1.80,Fall,Saturday,0.90,0,6,11
+Raspberries,Fruit,1,25,25,4.50,7.00,Summer,Sunday,2.50,1,18,55
+Swiss Cheese,Dairy,22,50,12,4.20,6.80,All-Season,Monday,2.60,0,4,8
+Cookies,Bakery,10,70,30,1.00,2.20,All-Season,Tuesday,1.20,0,6,12
+Okra,Vegetable,3,40,18,2.20,3.80,Summer,Wednesday,1.60,0,11,22
+Deli Sliced Turkey,Meat,3,25,15,7.00,11.00,All-Season,Thursday,4.00,1,7,22
+Peanut Butter,pantry,365,180,25,2.80,4.50,All-Season,Friday,1.70,0,0,0
+Frozen French Fries,frozen_food,730,160,30,2.20,3.80,All-Season,Saturday,1.60,0,0,0
+Parsnips,Vegetable,17,30,12,1.50,2.80,Winter,Sunday,1.30,0,5,10
+Papaya,Fruit,3,25,12,2.80,4.50,All-Season,Monday,1.70,0,9,24
+Ricotta Cheese,Dairy,6,25,10,3.00,4.80,All-Season,Tuesday,1.80,0,5,13
+Cake Slice,Bakery,1,10,10,2.50,4.50,All-Season,Wednesday,2.00,1,7,60
+Brussels Sprouts,Vegetable,6,40,15,2.00,3.50,Fall,Thursday,1.50,0,7,15
+Deli Sliced Ham,Meat,3,28,18,6.50,10.50,All-Season,Friday,4.00,1,8,20
+Olive Oil,pantry,730,90,12,8.00,12.50,All-Season,Saturday,4.50,0,0,0
+Frozen Shrimp,frozen_food,365,60,15,9.00,14.00,All-Season,Sunday,5.00,0,0,0
+Fennel,Vegetable,6,25,10,2.20,3.80,Spring,Monday,1.60,0,6,14
+Blackberries,Fruit,2,25,20,4.20,6.80,Summer,Tuesday,2.60,0,13,32
+Goat Cheese,Dairy,17,20,8,5.00,8.00,All-Season,Wednesday,3.00,0,3,9
+Pie Slice,Bakery,1,15,15,2.80,4.80,All-Season,Thursday,2.00,1,10,55
+Scallions,Vegetable,6,60,25,0.70,1.40,All-Season,Friday,0.70,0,9,14
+Sirloin Steak,Meat,2,15,10,10.00,16.00,All-Season,Saturday,6.00,1,7,38
+Vinegar,pantry,1095,165,15,1.50,2.50,All-Season,Sunday,1.00,0,0,0
+Frozen Peas,frozen_food,730,200,32,1.80,3.00,All-Season,Monday,1.20,0,0,0
+Collard Greens,Vegetable,5,40,18,1.90,3.20,Winter,Tuesday,1.30,0,8,16
+Cranberries,Fruit,17,30,12,2.50,4.00,Fall,Wednesday,1.50,0,4,8
+Mascarpone,Dairy,5,15,8,4.50,7.00,All-Season,Thursday,2.50,0,4,12
+Cheesecake Slice,Bakery,2,12,12,3.50,6.00,All-Season,Friday,2.50,1,8,42
+Ginger,Vegetable,22,80,20,2.00,3.50,All-Season,Saturday,1.50,0,4,6
+Deli Sliced Roast Beef,Meat,2,20,12,8.50,13.50,All-Season,Sunday,5.00,1,6,30
+Soy Sauce,pantry,730,145,20,2.00,3.50,All-Season,Monday,1.50,0,0,0
+Frozen Corn,frozen_food,730,220,35,1.70,2.90,All-Season,Tuesday,1.20,0,0,0
+Mustard Greens,Vegetable,5,35,15,1.80,3.00,Winter,Wednesday,1.20,0,7,15
+Passion Fruit,Fruit,5,20,10,1.50,2.80,All-Season,Thursday,1.30,0,6,16
+Blue Cheese,Dairy,22,25,8,5.50,8.50,All-Season,Friday,3.00,0,3,8
+Tiramisu Slice,Bakery,1,8,8,4.00,7.00,All-Season,Saturday,3.00,1,6,70
+Garlic,Vegetable,80,180,35,0.30,0.70,All-Season,Sunday,0.40,0,4,3
+Deli Sliced Salami,Meat,17,30,15,7.50,12.00,All-Season,Monday,4.50,0,4,10
+Hot Sauce,pantry,365,110,18,2.20,3.80,All-Season,Tuesday,1.60,0,0,0
+Frozen Broccoli Cuts,frozen_food,730,180,30,1.90,3.20,All-Season,Wednesday,1.30,0,0,0
+Swiss Chard,Vegetable,5,30,15,2.00,3.50,Spring,Thursday,1.50,0,7,16
+Guava,Fruit,4,25,12,1.20,2.20,All-Season,Friday,1.00,0,8,18
+Brie,Dairy,10,20,10,6.00,9.50,All-Season,Saturday,3.50,0,4,11
+Macarons,Bakery,3,40,25,1.00,2.50,All-Season,Sunday,1.50,0,8,22
