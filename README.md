@@ -1,7 +1,7 @@
 # FreshVault: Dynamic Price Optimization for Perishables
 
 **Live Demo:** [**Click here to view the deployed application**](https://freshvault.streamlit.app/) 
-*(Replace this URL with your actual Streamlit Community Cloud link)*
+
 
 ---
 
